@@ -30,3 +30,17 @@
   
   
   </table>
+  
+  
+  
+  <H1>LeetCode Posts</H1>
+  
+  [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/discuss/643117/java-inorder-traversal-100-0ms)
+  
+  [1315. Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/discuss/679699/java-dfs-easy-to-understand-9866-1-ms)
+  
+  [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/discuss/684053/java-simple-solution-100-0ms)
+  
+  [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/695572/java-union-find-small-method-pieces-to-help-understand)
+  
+  [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/discuss/696039/java-dfs-simple-with-explanation-97)
