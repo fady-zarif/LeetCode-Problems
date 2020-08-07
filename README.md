@@ -28,7 +28,7 @@
    Redundent Connection </a> &nbsp;&nbsp;&nbsp;&nbsp;
     
   </div></td><td label="[object Object]"><a href="/articles/course-schedule"><i class="fa fa-file-text"></i></a></td><td value="42.131501399171746" label="[object Object]">56.8%</td><td value="[object Object]" label="[object Object]"><span class="label label-warning round">Medium</span></td><td value="0" label="[object Object]"><div class="frequency-locked"><span><span class="" data-toggle="tooltip" data-placement="top" data-original-title="Frequency of problems that appear in real interviews" aria-hidden="true" style="cursor: pointer;"><i class="fa fa-lock"></i></span></span></div></td></tr> 
-   </thead>
+ 
    
    
    
@@ -39,9 +39,10 @@
       (Remove Linkedlist Elelements)    </a> &nbsp;&nbsp;&nbsp;&nbsp;
     
   </div></td><td label="[object Object]"><a href="/articles/course-schedule"><i class="fa fa-file-text"></i></a></td><td value="42.131501399171746" label="[object Object]">   38.4%  </td><td value="[object Object]" label="[object Object]"><span class="label label-warning round">   (Easy) </span></td><td value="0" label="[object Object]"><div class="frequency-locked"><span><span class="" data-toggle="tooltip" data-placement="top" data-original-title="Frequency of problems that appear in real interviews" aria-hidden="true" style="cursor: pointer;"><i class="fa fa-lock"></i></span></span></div></td></tr> 
-   </thead>
  
-
+ -----------------
+ 
+<tr><td value="ac" label="[object Object]"><span class="text-success fa fa-check"></span></td><td label="[object Object]">1</td><td value="Two Sum" label="[object Object]"><div><a href="/problems/two-sum" data-slug="two-sum">Two Sum</a>&nbsp;&nbsp;&nbsp;&nbsp;</div></td><td label="[object Object]"><a href="/articles/two-sum"><i class="fa fa-file-text"></i></a></td><td value="45.596978418474734" label="[object Object]">45.6%</td><td value="[object Object]" label="[object Object]"><span class="label label-success round">Easy</span></td><td value="0" label="[object Object]"><div class="frequency-locked"><span><span class="" data-toggle="tooltip" data-placement="top" data-original-title="Frequency of problems that appear in real interviews" aria-hidden="true" style="cursor: pointer;"><i class="fa fa-lock "></i></span></span></div></td></tr>
   
   
   </table>
