@@ -41,7 +41,7 @@
   </div></td><td label="[object Object]"><a href="/articles/course-schedule"><i class="fa fa-file-text"></i></a></td><td value="42.131501399171746" label="[object Object]">   38.4%  </td><td value="[object Object]" label="[object Object]"><span class="label label-warning round">   (Easy) </span></td><td value="0" label="[object Object]"><div class="frequency-locked"><span><span class="" data-toggle="tooltip" data-placement="top" data-original-title="Frequency of problems that appear in real interviews" aria-hidden="true" style="cursor: pointer;"><i class="fa fa-lock"></i></span></span></div></td></tr> 
   
   
-  <tr><td value="ac" label="[object Object]"><span class="text-success fa fa-check"></span></td><td label="[object Object]">   ((207))   </td><td value="Redundent Connection" label="[object Object]"><div>
+  <tr><td value="ac" label="[object Object]"><span class="text-success fa fa-check"></span></td><td label="[object Object]">   (145)   </td><td value="Redundent Connection" label="[object Object]"><div>
   
   <a href="https://leetcode.com/problems/binary-tree-postorder-traversal/" data-slug=" Binary Tree Postorder Traversal">
       (Binary Tree Postorder Traversal)    </a> &nbsp;&nbsp;&nbsp;&nbsp;
